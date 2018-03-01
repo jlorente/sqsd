@@ -19,7 +19,7 @@
 		"bin/sqsd.phar"
 	],
 	"require": {
-		"symfony/console": "^3.2",
+		"symfony/console": "^4.0.0",
 		"vlucas/phpdotenv": "^2.4",
 		"aws/aws-sdk-php": "^3.26",
 		"symfony/yaml": "^3.2",
